@@ -11,7 +11,9 @@ Matplotlib, Seaborn, plotly.express for Data Visualization
 
 🚀 Key Insights:
 1.Over all 2% death in 60Lakh cases i.e.,1.25Lakh deaths.
+
 2.Almost the Cured cases matched up with the Confirmed cases.But Active Cases were more in the period of May-2021 to July-2021.
+
 3.Statewise Report From High to Low by Active Cases.
 4.Maharashtra State has around "6.4 Million" confirmed Cases.
 5.Maximum Death of around 135 Thousand happened in Maharashtra. Death rate of "Andhra Pradesh & Chhattisgarh" were almost equal.
